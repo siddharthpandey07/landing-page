@@ -67,7 +67,7 @@ function Pages() {
             </div>
             <div className="right-content fw-bold">
                 <div className="OurStory">
-                   <p fw-bold >KNIGHT OWL MEDIA</p>
+                   <p fw-bold >KNIGHT MEDIA</p>
                    <p style={{color:'black'}} className= "small">KnightOwl Media unites fresh ideas, talent and stories to bring out
                     result driven solutions! We are a result-driven influencer marketing
                     and talent management organization that elevates businesses to
